@@ -5,7 +5,6 @@ These are all node projects suited for PC and phone extension supported browsers
 ## Nodes you can run
 - Voltix CPU Worker
 - Bless Network
-- Pipe Network
 - Dawn
 - Gradient Network
 - Nodepay (S3)
@@ -14,20 +13,21 @@ These are all node projects suited for PC and phone extension supported browsers
 - Functor Network
 -  Openledger (Epoch 2)
 
---------------------------------------------------------------
+-----------------------------------------------------------------
+
 
 ## Voltix CPU Worker
 - Register on the [dashboard](https://voltix.ai/login?ref=1PGDZ)
 - Install the [extension](https://chromewebstore.google.com/detail/voltix-built-for-ai-speci/dhffhdepkkepbcienheompkncklalogf)
 - Select your 'Number of Workers' and the level of 'Model Training' and start training
+  
+![Voltix node running](https://github.com/user-attachments/assets/bcf7b224-c16e-47da-8f1e-31e4938fff57)
 
 ## Bless Network (formerly Blockless)
 - Raised [$8.00M](https://cryptorank.io/ico/blockless#funding-rounds) from NGC Venture, M31 Capital, etc.
 - Sign up on the [dashboard](https://bless.network/dashboard?ref=BQZJYU)
 - Install the [extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
 - Activate the extension, make sure it's logged in
-
-## Pipe Network
 
 ## Dawn by Andrena
 - Total raised [$35.5M](https://cryptorank.io/ico/andrena)
@@ -42,6 +42,7 @@ These are all node projects suited for PC and phone extension supported browsers
 - [Sign up here](https://app.gradient.network/signup?code=38ORX7)
 - Install [Gradient Sentry Node](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
 - Uptime is important
+
 
 ## Nodepay S3
 - DePIN network, backed by Animoca Brands and other big names
