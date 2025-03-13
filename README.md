@@ -86,4 +86,4 @@ Install [extension](https://chromewebstore.google.com/detail/nodepay-extension/l
 - Raised [$4.00M](https://cryptorank.io/drophunting/stork-activity704)
 - The Stork Verifier Network Campaign
 - Install the [extension](https://chromewebstore.google.com/detail/stork-verify/knnliglhgkmlblppdejchidfihjnockl)
-- Open the extsnion, sign up with email and use invite code: RBB0E0FE66
+- Open the extension, sign up with email and use invite code: RBB0E0FE66
