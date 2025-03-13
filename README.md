@@ -12,6 +12,7 @@ These are all node projects suited for PC and phone extension supported browsers
 - Grass Season 2
 - Functor Network
 -  Openledger (Epoch 2)
+-  Stork Oracle Verifier
 
 -----------------------------------------------------------------
 
@@ -79,3 +80,10 @@ Install [extension](https://chromewebstore.google.com/detail/nodepay-extension/l
 - Existing node users will continue to enjoy access
 - Install [nodes](https://testnet.openledger.xyz/app-store) for different devices but not working now as paused for epoch 2
 - Complete missions and maintain check-in streak
+
+## Stork Oracle Verifier
+- Web3 oracle provider
+- Raised [$4.00M](https://cryptorank.io/drophunting/stork-activity704)
+- The Stork Verifier Network Campaign
+- Install the [extension](https://chromewebstore.google.com/detail/stork-verify/knnliglhgkmlblppdejchidfihjnockl)
+- Open the extsnion, sign up with email and use invite code: RBB0E0FE66
